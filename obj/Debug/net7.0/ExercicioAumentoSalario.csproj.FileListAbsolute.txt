@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/bin/Debug/net7.0/ExercicioAumentoSalario
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/bin/Debug/net7.0/ExercicioAumentoSalario.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/bin/Debug/net7.0/ExercicioAumentoSalario.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/bin/Debug/net7.0/ExercicioAumentoSalario.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/bin/Debug/net7.0/ExercicioAumentoSalario.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/obj/Debug/net7.0/ExercicioAumentoSalario.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/obj/Debug/net7.0/ExercicioAumentoSalario.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/obj/Debug/net7.0/ExercicioAumentoSalario.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/obj/Debug/net7.0/ExercicioAumentoSalario.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/obj/Debug/net7.0/ExercicioAumentoSalario.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/obj/Debug/net7.0/ExercicioAumentoSalario.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/obj/Debug/net7.0/refint/ExercicioAumentoSalario.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/obj/Debug/net7.0/ExercicioAumentoSalario.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/obj/Debug/net7.0/ExercicioAumentoSalario.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/ExercicioAumentoSalario/obj/Debug/net7.0/ref/ExercicioAumentoSalario.dll
